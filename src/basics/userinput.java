@@ -1,0 +1,14 @@
+package basics;
+
+import java.util.Scanner;
+
+public class userinput {
+    static void main() {
+        Scanner sc = new Scanner(System.in);// scanner used hota h input lene k liye
+        System.out.println("enter radius:");
+        double r = sc.nextDouble();
+        double a = 3.14*r*r;
+        System.out.println("area is:");
+        System.out.println(a);
+    }
+}
