@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/if else java dishooommmmm/if else java dishooommmmm.iml" filepath="$PROJECT_DIR$/if else java dishooommmmm/if else java dishooommmmm.iml" />
       <module fileurl="file://$PROJECT_DIR$/java dsa placement.iml" filepath="$PROJECT_DIR$/java dsa placement.iml" />
       <module fileurl="file://$PROJECT_DIR$/loop_basic/loop_basic.iml" filepath="$PROJECT_DIR$/loop_basic/loop_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods_java/methods_java.iml" filepath="$PROJECT_DIR$/methods_java/methods_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern_printing/pattern_printing.iml" filepath="$PROJECT_DIR$/pattern_printing/pattern_printing.iml" />
     </modules>
   </component>
